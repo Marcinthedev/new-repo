@@ -1,0 +1,1 @@
+const newvar = "second one";
