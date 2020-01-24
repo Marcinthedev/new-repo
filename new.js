@@ -1,1 +1,1 @@
-const newvar = "new";
+const newvar = "second one";
